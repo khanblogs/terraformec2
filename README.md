@@ -1,2 +1,2 @@
 # terraformec2
-Creating ec2 in AWS from Terraform and deploying web servers
+Created ec2 in AWS from Terraform and deploying web servers through the script.
